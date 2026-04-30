@@ -1,0 +1,9 @@
+lightgbm
+mlflow
+pandas
+feast
+shap
+confluent-kafka
+scikit-learn
+joblib
+anthropic
