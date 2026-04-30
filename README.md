@@ -1,6 +1,12 @@
 # AIFT-MS Framework
 AI-Integrated Finance Transformation for Mid-Sized Companies
 
+#Team Details
+Manya Jain -2210990563
+Keshav Goel -2210990504
+Teesta Arora -2210992460
+Sanya Singla - 2210990789
+
 ## Overview
 A research-backed conceptual and technical framework for enabling AI-driven finance transformation in mid-sized enterprises.
 
